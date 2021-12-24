@@ -13,4 +13,4 @@ A complete web application which solves the mathematical expression
 * OpenCV (Open Source Computer Vision) is a library of programming functions mainly aimed at  real-time computer vision. In simple language it is library used for Image Processing. It is mainly used to do all the operation related to Images.
 * Flask is a web framework. This means flask provides you with tools, libraries, and technologies that allow you to build a web application.
 
-See Architecture diagram & Text recognition process in image --> 
+See Architecture diagram & Text recognition process in image --> MES_Architecture_Diagram.png & MES_Text_recognition_process.png
